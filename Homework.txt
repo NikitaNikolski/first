@@ -1,0 +1,10 @@
+Scala
+VG
+Java
+Дуффуры
+Дискретка
+Английский: слова, диалоги, текст
+Смолякова
+QT	
+	
+Layout 5 controls vidgets menu
